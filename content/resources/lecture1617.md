@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Organizational Features
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-351-managing-the-innovation-process-fall-2002/44e5180a8c07322eb9fa57eff807ed53_lecture1617.pdf
+file: /media/courses/15-351-managing-the-innovation-process-fall-2002/44e5180a8c07322eb9fa57eff807ed53_lecture1617.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture1617.pdf
 uid: 44e5180a-8c07-322e-b9fa-57eff807ed53

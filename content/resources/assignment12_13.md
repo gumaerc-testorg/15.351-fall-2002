@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Reflection Exercise: Lecture 12, 13 -- Intra-Organizational Networks'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-351-managing-the-innovation-process-fall-2002/898a1a04ac45fbd7787a7a2207f40172_assignment12_13.pdf
+file: /media/courses/15-351-managing-the-innovation-process-fall-2002/898a1a04ac45fbd7787a7a2207f40172_assignment12_13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assignment12_13.pdf
 uid: 898a1a04-ac45-fbd7-787a-7a2207f40172

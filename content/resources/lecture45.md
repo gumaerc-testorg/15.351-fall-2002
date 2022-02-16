@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Individual Contributions
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-351-managing-the-innovation-process-fall-2002/4e06d942f202bb2f88aff3a295003714_lecture45.pdf
+file: /media/courses/15-351-managing-the-innovation-process-fall-2002/4e06d942f202bb2f88aff3a295003714_lecture45.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture45.pdf
 uid: 4e06d942-f202-bb2f-88af-f3a295003714

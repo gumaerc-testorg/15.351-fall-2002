@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Inter-Organizational Networks
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-351-managing-the-innovation-process-fall-2002/f94ad5389ae1889b720e7ab5239fdc64_lecture1415.pdf
+file: /media/courses/15-351-managing-the-innovation-process-fall-2002/f94ad5389ae1889b720e7ab5239fdc64_lecture1415.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture1415.pdf
 uid: f94ad538-9ae1-889b-720e-7ab5239fdc64

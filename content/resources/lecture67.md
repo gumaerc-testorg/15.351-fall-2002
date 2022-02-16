@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Technical Communication
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-351-managing-the-innovation-process-fall-2002/2b1b482d920a030ef23c8cace0d3f6f2_lecture67.pdf
+file: /media/courses/15-351-managing-the-innovation-process-fall-2002/2b1b482d920a030ef23c8cace0d3f6f2_lecture67.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture67.pdf
 uid: 2b1b482d-920a-030e-f23c-8cace0d3f6f2

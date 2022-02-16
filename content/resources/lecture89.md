@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Cross-Functionality
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-351-managing-the-innovation-process-fall-2002/2ddd59b250a54e529376fdd01c58c8f4_lecture89.pdf
+file: /media/courses/15-351-managing-the-innovation-process-fall-2002/2ddd59b250a54e529376fdd01c58c8f4_lecture89.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture89.pdf
 uid: 2ddd59b2-50a5-4e52-9376-fdd01c58c8f4

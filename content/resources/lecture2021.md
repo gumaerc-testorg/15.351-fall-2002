@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Market Changes
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-351-managing-the-innovation-process-fall-2002/0e5e37404bc0451788bade49daccebe8_lecture2021.pdf
+file: /media/courses/15-351-managing-the-innovation-process-fall-2002/0e5e37404bc0451788bade49daccebe8_lecture2021.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture2021.pdf
 uid: 0e5e3740-4bc0-4517-88ba-de49daccebe8
