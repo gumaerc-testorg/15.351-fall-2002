@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -35,7 +36,7 @@ Introduction and Overview
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment1))
+Assignment 1 ({{% resource_link 8c5cd9aa-abf8-d5da-f3f3-6bb873937982 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +52,7 @@ Origin of the Process
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 2 ([PDF]({{< baseurl >}}/resources/assignment23))
+Assignment 2 ({{% resource_link 1c22a1ea-d49b-9206-1635-33d4252bc4ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Individual Contributions
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 3 ([PDF]({{< baseurl >}}/resources/assignment45))
+Assignment 3 ({{% resource_link bde55e31-2483-ecc6-dacc-b1f1e25881b4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +84,7 @@ Technical Communication
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 4 ([PDF]({{< baseurl >}}/resources/assignment6_7))
+Assignment 4 ({{% resource_link 02365327-43e8-4a9f-5ab0-5e4732836817 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ Cross-Functionality
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 5 ([PDF]({{< baseurl >}}/resources/assignment89))
+Assignment 5 ({{% resource_link f969442b-bcff-608a-541d-ab14d921cb2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Geographic Dispersion
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 6 ([PDF]({{< baseurl >}}/resources/assignment1011))
+Assignment 6 ({{% resource_link 432f2d3a-2f68-42cc-1d88-d3a2355e2851 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +132,7 @@ Intra-Organizational Networks
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 7 ([PDF]({{< baseurl >}}/resources/assignment12_13))
+Assignment 7 ({{% resource_link 898a1a04-ac45-fbd7-787a-7a2207f40172 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +148,7 @@ Inter-Organizational Networks
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 8 ([PDF]({{< baseurl >}}/resources/assignment1415))
+Assignment 8 ({{% resource_link 94565066-3ff5-cb92-3048-0c604040d20a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +164,7 @@ Organizational Features
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 9 ([PDF]({{< baseurl >}}/resources/assignment1617))
+Assignment 9 ({{% resource_link bb7d3643-ac0f-0713-4447-cf9da4284315 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +180,7 @@ Organizational Learning
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 10 ([PDF]({{< baseurl >}}/resources/assignment1819))
+Assignment 10 ({{% resource_link a47ad223-b81b-e1f0-4eb9-5362c500a657 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +196,7 @@ Market Changes
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 11 ([PDF]({{< baseurl >}}/resources/assignment2021))
+Assignment 11 ({{% resource_link 8aa73032-162b-49ec-73db-c357127a1b04 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,7 +228,7 @@ Standards, Patents, & Open Source
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 13 ([PDF]({{< baseurl >}}/resources/assignment2324))
+Assignment 13 ({{% resource_link 190af08d-84fe-19ca-fa7e-30913b24fa5b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
