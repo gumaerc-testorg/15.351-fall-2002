@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Bibliography. Links page.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: d0498e16-2af6-fce4-04ed-67588f17f875
 ---

@@ -1,60 +1,34 @@
 ---
 content_type: page
+description: ''
+draft: false
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 09cf7939-00b5-1b1c-c236-c3ef46b30bc5
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Topics
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Required Readings
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Supplemental Readings
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Introduction and Overview
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings for this lecture.
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2-3
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Origin of the Process
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Required Readings**
 
@@ -66,10 +40,7 @@ Morison, E. Gunfire at sea: A case study of innovation, _Men, machines, and mode
 
 _Plus Development Corporation_ (A) (HBS case 9-687-001)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Hounshell, D. _From the American system to mass production,_ _1800-1932_. Baltimore, MD: The Johns Hopkins University Press, 1984, Introduction, pp. 1-13.
 
@@ -77,23 +48,11 @@ Mowery, D., and Rosenberg, N. _Paths of innovation: Technological change in 20th
 
 Tedlow, R. _Giants of enterprise: seven business innovators and the empires they built, 2001._ New York: HarperBusiness, Introduction: The big picture, pp. 1-10.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4-5
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Individual Contributions
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Required Readings**
 
@@ -105,10 +64,7 @@ Roberts, E., and Fusfeld, A. "Staffing the innovative technology-based organizat
 
 _Corporate New Ventures at Procter & Gamble_ (HBS case 9-897-088)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Kelley, R., and Caplan, J. "How Bell Labs creates star performers." _Harvard Business Review_ 71(4) (1993): pp. 128-139.
 
@@ -116,23 +72,11 @@ Nemeth, C. "Managing innovation: When less is more." _California Management Revi
 
 Shapero, A. "Managing creative professionals." _Research-Technology Management, March-April 23-28, 1985._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6-7
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Technical Communication
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Required Readings**
 
@@ -144,10 +88,7 @@ Tushman, M. Special boundary roles in the innovation process. _Administrative Sc
 
 _The Medtek Corporation_ (HBS case 9-400-024)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Ebadi, Y., & Utterback, J. The effects of communication on technological innovation. _Management Science,_ 30(5), 1984, 572-585.
 
@@ -155,23 +96,11 @@ Pelz, D., & Andrews, F. _Scientists in organizations: Productive climates for re
 
 Sosa, M., Eppinger, S., Pich, M., McKendrick, D., Stout, S. Factors that influence technical communication in distributed product development: An empirical study in the telecommunications industry. _IEEE Transactions on Engineering Management,_ 49(1), 45-58, 2002.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8-9
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Cross-Functionality
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Clark, K., & Wheelwright, S. Organizing and leading "heavyweight" development teams. California _Management Review_, 34(3), 1992, 9-28.
 
@@ -181,10 +110,7 @@ Dougherty, D. Interpretive barriers to successful product innovation in large fi
 
 _Business Teams at Rubbermaid, Inc_. (HBS case 9-897-165)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Ancona, D., & Caldwell, D. Demography and design: Predictors of new product team performance. _Organization Science,_ 3(3),1992, 321-341.
 
@@ -192,23 +118,11 @@ Eisenhardt, K., & Tabrizi, B. Accelerating adaptive processes: Product innovatio
 
 Griffin, A, and J. Hauser. Patterns of communication among marketing, engineering, and manufacturing --a comparison between two new product teams. _Management Science,_ 38(3), (1992): 360-373
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10-11
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Geographic Dispersion
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Required Readings**
 
@@ -220,34 +134,19 @@ Lipnack, J, and J. Stamps. "Chapter 1: Why virtual teams? The new way to work." 
 
 _Unilever's Butter-Beater: Innovation for Global Diversity_ (HBS case 9-698-017)
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Armstrong, D., and P. Cole."Managing distances and differences in geographically distributed work groups." In _Diversity in work teams._ Edited by S. Jackson, and Ruderman M. Washington D.C: American Psychological Association, 1995, pp. 187-215.
 
-
-Armstrong, D., and P. Cole."Managing distances and differences in geographically distributed work groups." In _Diversity in work teams._ Edited by S. Jackson, and Ruderman M. Washington D.C: American Psychological Association, 1995, pp. 187-215.  
-  
 Carmel, E. "Chapter 1: Why we are seeing more global software teams." In _Global software teams: Collaborating across borders and time zones._ Upper Saddle River, NJ: Prentice Hall PTR., 1999, pp. 3-23.
 
 O'Hara-Devereaux M, and R. Johansen. "Chapter 1: Introduction: Fault lines in the new global business landscape." In _GlobalWork: Bridging distance, culture, and time. San Francisco:_ Jossey-Bass, 1994, pp. 1-31.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12-13
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Intra-Organizational Networks
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Required Readings**
 
@@ -259,10 +158,7 @@ Krackhardt, D., and J. Hanson. "Informal networks: The company behind the chart.
 
 _Digital Equipment Corporation: The Kodak Outsourcing Agreement (A)_ (HBS case 9-191-039)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Constant, D., L. Sproull and S. Kiesler. "The kindness of strangers: The usefulness of electronic weak ties for technical advice." _Organization Science_ 7(2), (1996): 119-135.
 
@@ -270,23 +166,11 @@ Gargiulo, M., and M. Benassi. "Trapped in your own net? Network cohesion, struct
 
 Rogers, E. "Chapter 1: Elements of diffusion." In _The diffusion of innovations. New York:_ Free Press., 1995, pp. 1-37.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14-15
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Inter-Organizational Networks
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Required Readings**
 
@@ -296,13 +180,9 @@ Hargadon, A. "Firms as knowledge brokers: Lessons in pursuing continuous innovat
 
 **Case Analysis**
 
-_Molding the Impossible: The NYPRO/Vistakon Disposable Contact Lens Project_ (HBS case 9-694-062)  
+_Molding the Impossible: The NYPRO/Vistakon Disposable Contact Lens Project_ (HBS case 9-694-062)
 
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Ahuja, G. "Collaboration networks, structural holes, and innovation: A longitudinal study." _Administrative Science Quarterly_ 45(3), (2000): pp. 425-455.
 
@@ -310,23 +190,11 @@ Powell W., K. Koput and L. Smith-Doerr. "Interorganizational collaboration and t
 
 Stuart, T. "Network positions and propensities to collaborate: An investigation of strategic alliance formation in a high-technology industry." _Administrative Science Quarterly_ 43(3), (1998): pp. 668-698.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16-17
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Organizational Features
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Required Readings**
 
@@ -338,34 +206,19 @@ O'Connor, G., and M. Rice. "Opportunity recognition and breakthrough innovation 
 
 _Sun Microsystems, Inc._ (A) (HBS case 9-686-133)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Markides, C. "Strategic innovation." _Sloan Management Review,_ 38(3), (1997): 9-23.
 
 Nonaka, I., and H. Takeuchi. "Chapter 1: Introduction to knowledge in organizations." In _The knowledge-creating company._ New York: Oxford University Press, 1995, pp. 3-19.
 
-Tushman, M., and C. O'Reilly_. "_Chapter 1: The tyranny of success." In _Winning through innovation._ Boston, MA: Harvard Business School Press, 1997, pp. 1-15.
+Tushman, M., and C. O'Reilly "_Chapter 1: The tyranny of success." In Winning through innovation._ Boston, MA: Harvard Business School Press, 1997, pp. 1-15.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18-19
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Organizational Learning
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Required Readings**
 
@@ -377,35 +230,19 @@ von Hippel, E. "Chapter 8: Predicting the source of innovation: Lead users." In 
 
 _Innovation at 3M Corp._ (A) (HBS case 9-699-012)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Argote, L. "Chapter 1: Organizational learning curves: An overview." In _Organizational learning: Creating, retaining, and transferring knowledge._ Boston, MA: Kluwer Academic, 1999, pp. 1-34.
 
 Brown, J., and Duguid, P. "Organizational learning and communities-of-practice: Toward a unified view of working, learning, and innovation." _Organization Science_ 2(1), (1991): pp. 40-57.
 
-Tyre, M., and W. Orlikowski. "Exploiting opportunities for technological improvement in organizations." _Sloan Management Review,_ 35(1), (1993): pp. 13-26.  
+Tyre, M., and W. Orlikowski. "Exploiting opportunities for technological improvement in organizations." _Sloan Management Review,_ 35(1), (1993): pp. 13-26.
 
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20-21
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Market Changes
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Required Readings**
 
@@ -417,10 +254,7 @@ Utterback, J. "Chapter 7: Invasion of a stable business by radical innovation." 
 
 _Monsanto Co.: The Coming of Age of Biotechnology_ (HBS case 9-596-034)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Anderson, P., and M. Tushman. "Managing through cycles of technological change." _Research-Technology Management. (May-June,_ 1991): pp. 26-31.
 
@@ -428,23 +262,11 @@ Christensen, C. "Exploring the limits of the technology S-curve. Part I: Compone
 
 Foster, R. "Chapter 4: The S-curve: A new forecasting tool." In _Innovation: The attacker's advantage. New York:_ Summit Books, 1986, pp. 89-111.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Industry Variability
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Speaker** -
 
@@ -452,26 +274,13 @@ Michael Meyer, Product Strategy Practice Leader, IDEO Boston.
 
 **Case Analysis** - no case analysis this week
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23-24
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Standards, Patents, & Open Source
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Required Readings**
 
@@ -483,39 +292,20 @@ Raymond, E. _The cathedral and the bazaar._ Cambridge, MA: O'Reilly & Associates
 
 _Outrage in Cyberspace_: _CompuServe and the GIF Patent_ (HBS case 9-296-057)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Shapiro, C., and Varian, H. "Chapter 9: Waging a standards war." In _Information Rules: A strategic guide to the network economy_. Boston, MA: Harvard Business School Press, 1999, pp. 261-296.
 
-Teece, D. "Capturing value from technological innovation: Integration, strategic partnering, and licensing decisions." In _Technology and Global Industry._ Edited by B. Guile & H. Brooks. Washington, D.C: National Academy Press. 1987, pp. 65-95.  
+Teece, D. "Capturing value from technological innovation: Integration, strategic partnering, and licensing decisions." In _Technology and Global Industry._ Edited by B. Guile & H. Brooks. Washington, D.C: National Academy Press. 1987, pp. 65-95.
 
 von Hippel, E. "Innovation by user communities: Learning from open-source software." _Sloan Management Review,_ 42(4), (2001): pp. 82-86.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Course Wrap-up
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

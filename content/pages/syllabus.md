@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Contents: Class Participation. Online Forum. Case Analysis. Book Review.
+  Final Paper. Grading. Innovation Points'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f8400324-6307-a67c-1961-f88e4d36457f
 ---

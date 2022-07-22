@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 3ac189fe-db3a-6db2-cbe5-2664a8eeab94
 ---
@@ -32,7 +36,7 @@ Introduction and Overview
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1))
+({{% resource_link 6d697a88-ccd4-efbe-e403-5a05b7f11c8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +52,7 @@ Origin of the Process
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture23))
+({{% resource_link f82664e5-0e11-f7ca-3490-df49dbbdd26f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +68,7 @@ Individual Contributions
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture45))
+({{% resource_link 4e06d942-f202-bb2f-88af-f3a295003714 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +84,7 @@ Technical Communication
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture67))
+({{% resource_link 2b1b482d-920a-030e-f23c-8cace0d3f6f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +100,7 @@ Cross-Functionality
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture89))
+({{% resource_link 2ddd59b2-50a5-4e52-9376-fdd01c58c8f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ Geographic Dispersion
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1011))
+({{% resource_link 90e16d78-7245-d8c4-e0bd-fe442c0deff0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +132,7 @@ Intra-Organizational Networks
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1213))
+({{% resource_link da91d383-c133-14c0-cc60-689e41099344 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +148,7 @@ Inter-Organizational Networks
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1415))
+({{% resource_link f94ad538-9ae1-889b-720e-7ab5239fdc64 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +164,7 @@ Organizational Features
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1617))
+({{% resource_link 44e5180a-8c07-322e-b9fa-57eff807ed53 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +180,7 @@ Organizational Learning
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1819))
+({{% resource_link f6b66172-c781-e176-33c5-6406870bae97 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +196,7 @@ Market Changes
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture2021))
+({{% resource_link 0e5e3740-4bc0-4517-88ba-de49daccebe8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +228,7 @@ Standards, Patents, & Open Source
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture2324))
+({{% resource_link 2f81f985-ecee-40de-8770-e03d67145ec1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

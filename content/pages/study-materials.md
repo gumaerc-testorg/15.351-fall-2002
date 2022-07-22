@@ -1,11 +1,13 @@
 ---
 content_type: page
+description: Bibliography.
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 8bc9ec7c-c5bc-4769-ca61-5aa3fd575672
 ---
-
-Suggested Books
----------------
+## Suggested Books
 
 Argote, L. _Organizational learning: Creating, retaining, and transferring knowledge._ Boston, MA: Kluwer Academic, 1999.
 
@@ -21,7 +23,7 @@ Christensen, C. _The innovator's dilemma._ Boston, MA: Harvard Business School P
 
 Clark, K., and T. Fujimoto. _Product development performance: Strategy, organization, and management in the world auto industry._ Boston, MA: Harvard Business School Press, 1991.
 
-Gawer, A., and M. Cusumano_. Platform leadership: How Intel, Microsoft, and Cisco drive industry innovation._ Boston, MA: Harvard Business School Press, 2002.
+Gawer, A., and M. Cusumano. _Platform leadership: How Intel, Microsoft, and Cisco drive industry innovation_. Boston, MA: Harvard Business School Press, 2002.
 
 _Foster, R. Innovation: The attacker's advantage._ New York: Summit Books, 1986.
 
@@ -31,11 +33,11 @@ _Harvard Business Review on Innovation._ Boston, MA: Harvard Business School Pre
 
 Hounshell, D. _From the American system to mass production, 1800-1932._ Baltimore, MD: The Johns Hopkins University Press, 1984.
 
-Leonard-Barton, D_. Wellsprings of knowledge._ Boston, MA: Harvard Business School Press, 1995.
+Leonard-Barton, D. _Wellsprings of knowledge_. Boston, MA: Harvard Business School Press, 1995.
 
 Moore, G. _Crossing the chasm._ New York: Harper Business, (1999).
 
-Mowery, D., and N. Rosenberg_. Paths of innovation: Technological change in 20th century America._ Cambridge, U.K.: Cambridge University Press, 1998.
+Mowery, D., and N. Rosenberg. _Paths of innovation: Technological change in 20th century America_. Cambridge, U.K.: Cambridge University Press, 1998.
 
 Myers, M. _Engines of innovation: U.S. industrial research at the end of an era._ Boston, MA: Harvard Business School Press, 1996.
 
@@ -43,7 +45,7 @@ Nelson, R. _The sources of economic growth._ Cambridge, MA: Harvard University P
 
 Nonaka, I., and H. Takeuchi. _The knowledge-creating company._ New York: Oxford University Press, 1995.
 
-O'Hara-Devereaux, M., and R. Johansen_. GlobalWork: Bridging distance, culture, and time._ San Francisco: Jossey-Bass, 1994.
+O'Hara-Devereaux, M., and R. Johansen. _GlobalWork: Bridging distance, culture, and time_. San Francisco: Jossey-Bass, 1994.
 
 Pisano, G. _The development factory_. Boston, MA: Harvard Business School Press, 1997.
 
