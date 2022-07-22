@@ -5,6 +5,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/0236532743e84a9f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment6_7.pdf
 uid: 02365327-43e8-4a9f-5ab0-5e4732836817
 ---
 Reflection Exercise: Lecture 6, 7 -- Technical Communication
-

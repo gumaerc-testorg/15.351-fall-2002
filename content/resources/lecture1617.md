@@ -5,6 +5,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/44e5180a8c07322e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture1617.pdf
 uid: 44e5180a-8c07-322e-b9fa-57eff807ed53
 ---
 Organizational Features
-

@@ -6,6 +6,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/190af08d84fe19ca
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment2324.pdf
 uid: 190af08d-84fe-19ca-fa7e-30913b24fa5b
 ---
 Reflection Exercise: Lecture 23, 22 -- Standards, Patents, and Open Source
-

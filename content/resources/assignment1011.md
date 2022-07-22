@@ -5,6 +5,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/432f2d3a2f6842cc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment1011.pdf
 uid: 432f2d3a-2f68-42cc-1d88-d3a2355e2851
 ---
 Reflection Exercise: Lecture 10, 11 -- Geographic Dispersion
-

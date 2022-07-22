@@ -5,6 +5,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/f94ad5389ae1889b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture1415.pdf
 uid: f94ad538-9ae1-889b-720e-7ab5239fdc64
 ---
 Inter-Organizational Networks
-

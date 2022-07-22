@@ -5,6 +5,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/2ddd59b250a54e52
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture89.pdf
 uid: 2ddd59b2-50a5-4e52-9376-fdd01c58c8f4
 ---
 Cross-Functionality
-

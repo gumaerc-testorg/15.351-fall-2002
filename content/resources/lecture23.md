@@ -5,6 +5,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/f82664e50e11f7ca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture23.pdf
 uid: f82664e5-0e11-f7ca-3490-df49dbbdd26f
 ---
 Origin of the Process
-

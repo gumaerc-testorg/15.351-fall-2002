@@ -5,6 +5,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/4e06d942f202bb2f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture45.pdf
 uid: 4e06d942-f202-bb2f-88af-f3a295003714
 ---
 Individual Contributions
-

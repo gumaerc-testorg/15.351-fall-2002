@@ -5,6 +5,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/bb7d3643ac0f0713
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment1617.pdf
 uid: bb7d3643-ac0f-0713-4447-cf9da4284315
 ---
 Reflection Exercise: Lecture 16, 17 -- Organizational Features
-

@@ -5,6 +5,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/90e16d787245d8c4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture1011.pdf
 uid: 90e16d78-7245-d8c4-e0bd-fe442c0deff0
 ---
 Geographic Dispersion
-

@@ -5,6 +5,7 @@ file: /courses/15-351-managing-the-innovation-process-fall-2002/898a1a04ac45fbd7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment12_13.pdf
 uid: 898a1a04-ac45-fbd7-787a-7a2207f40172
 ---
 Reflection Exercise: Lecture 12, 13 -- Intra-Organizational Networks
-
