@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Reflection Exercise: Lecture 20, 21 -- Market Changes'
 file: /courses/15-351-managing-the-innovation-process-fall-2002/8aa73032162b49ec73dbc357127a1b04_assignment2021.pdf
+file_size: 13629
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Reflection Exercise: Lecture 14, 15 -- Inter-Organizational Networks'
 file: /courses/15-351-managing-the-innovation-process-fall-2002/945650663ff5cb9230480c604040d20a_assignment1415.pdf
+file_size: 20708
 file_type: application/pdf
 learning_resource_types:
 - Assignments

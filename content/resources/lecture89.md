@@ -2,6 +2,7 @@
 content_type: resource
 description: Cross-Functionality
 file: /courses/15-351-managing-the-innovation-process-fall-2002/2ddd59b250a54e529376fdd01c58c8f4_lecture89.pdf
+file_size: 70093
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
