@@ -3,6 +3,7 @@ content_type: resource
 description: Work Groups and Knowledge Sharing in a Global Organization [Introduction
   and Overview]
 file: /courses/15-351-managing-the-innovation-process-fall-2002/6d697a88ccd4efbee4035a05b7f11c8f_lecture1.pdf
+file_size: 115409
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

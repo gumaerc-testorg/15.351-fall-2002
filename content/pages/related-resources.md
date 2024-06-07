@@ -24,13 +24,13 @@ Introduction and Overview
 {{< tdclose >}}{{< tdopen >}}
 Origin of the Process
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "0b5cda16-573d-4cd6-bb02-01d826e47cdd" "COMPUTERWORLD - Researchers close in on atomic storage target" %}}
+[COMPUTERWORLD - Researchers close in on atomic storage target](http://www.computerworld.com/article/2577690/data-center/researchers-close-in-on-atomic-storage-target.html)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4-5
 {{< tdclose >}}{{< tdopen >}}
 Individual Contributions
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "f3482341-0f28-425a-8d35-6856c0c5aa0f" "HBS Working Knowledge - Time Pressure and Creativity" %}}
+[HBS Working Knowledge - Time Pressure and Creativity](https://hbswk.hbs.edu/item/time-pressure-and-creativity-why-time-is-not-on-your-side)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6-7
 {{< tdclose >}}{{< tdopen >}}
@@ -49,11 +49,11 @@ Cross-Functionality
 Geographic Dispersion
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "3c4ed388-90f7-40c8-b8bc-638cb96e9f0a" "MIT team reports tips for successful virtual collaborations" %}}
+[MIT team reports tips for successful virtual collaborations](http://web.mit.edu/newsoffice/2001/vcollaboration.html)
 
-{{% resource_link "deed96f0-0a77-46b2-bd76-c4b86c6829d7" "Tools for Virtual Team Communication" %}}
+[Tools for Virtual Team Communication](http://www.thecouchmanager.com/2013/05/21/the-ultimate-list-of-virtual-team-technology-tools/)
 
-{{% resource_link "0b375bfd-f108-4ad0-8772-90578efe300d" "Virtually There?" %}}
+[Virtually There?](http://www.fastcompany.com/44596/virtually-there)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12-13
@@ -72,13 +72,13 @@ Inter-Organizational Networks
 {{< tdclose >}}{{< tdopen >}}
 Organizational Features
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "20b37448-8150-4fef-8e91-37d0b3d20898" "Will Sun Rise Again?" %}}
+[Will Sun Rise Again?](http://www.businessweek.com/magazine/content/02_47/b3809001.htm)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18-19
 {{< tdclose >}}{{< tdopen >}}
 Organizational Learning
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "2a2218d4-5777-4699-92da-e4eb65746491" "An Innovation Recession?" %}}
+[An Innovation Recession?](http://abcnews.go.com/Business/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20-21
 {{< tdclose >}}{{< tdopen >}}
@@ -90,16 +90,16 @@ Market Changes
 {{< tdclose >}}{{< tdopen >}}
 Industry Variability
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "7f0c8a71-a7fb-43f3-b7a2-6c89c8be2bc6" "IDEO Boston" %}}
+[IDEO Boston](https://jp.ideo.com/location/cambridge/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23-24
 {{< tdclose >}}{{< tdopen >}}
 Standards, Patents, & Open Source
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "fb4e76b5-50d3-47a1-b995-6ee095a0ba8c" "Free As In Free Software (Richard Stallman)" %}}
+[Free As In Free Software (Richard Stallman)](http://www.oreilly.com/openbook/freedom/)
 
-{{% resource_link "3305e53a-abbd-45a7-b9ef-f6dde13b8533" "Why there are no GIF files on GNU web pages" %}}
+[Why there are no GIF files on GNU web pages](http://www.gnu.org/philosophy/gif.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25

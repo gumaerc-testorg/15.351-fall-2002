@@ -2,6 +2,7 @@
 content_type: resource
 description: Inter-Organizational Networks
 file: /courses/15-351-managing-the-innovation-process-fall-2002/f94ad5389ae1889b720e7ab5239fdc64_lecture1415.pdf
+file_size: 72118
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
