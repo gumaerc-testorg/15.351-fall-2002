@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Reflection Exercise: Lecture 10, 11 -- Geographic Dispersion'
 file: /courses/15-351-managing-the-innovation-process-fall-2002/432f2d3a2f6842cc1d88d3a2355e2851_assignment1011.pdf
+file_size: 18672
 file_type: application/pdf
 learning_resource_types:
 - Assignments
