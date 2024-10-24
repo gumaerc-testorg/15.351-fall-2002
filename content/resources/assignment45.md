@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Reflection Exercise: Lecture 4, 5 -- Individual Contribution'
-file: /courses/15-351-managing-the-innovation-process-fall-2002/bde55e312483ecc6daccb1f1e25881b4_assignment45.pdf
+file: /ol-ocw-studio-app/courses/15-351-managing-the-innovation-process-fall-2002/bde55e312483ecc6daccb1f1e25881b4_assignment45.pdf
 file_size: 13443
 file_type: application/pdf
 learning_resource_types:
