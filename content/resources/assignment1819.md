@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Reflection Exercise: Lecture 18, 19 -- Organizational Learning'
-file: /courses/15-351-managing-the-innovation-process-fall-2002/a47ad223b81be1f04eb95362c500a657_assignment1819.pdf
+file: /ol-ocw-studio-app/courses/15-351-managing-the-innovation-process-fall-2002/a47ad223b81be1f04eb95362c500a657_assignment1819.pdf
 file_size: 13470
 file_type: application/pdf
 learning_resource_types:

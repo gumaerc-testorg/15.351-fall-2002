@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Individual Contributions
-file: /courses/15-351-managing-the-innovation-process-fall-2002/4e06d942f202bb2f88aff3a295003714_lecture45.pdf
+file: /ol-ocw-studio-app/courses/15-351-managing-the-innovation-process-fall-2002/4e06d942f202bb2f88aff3a295003714_lecture45.pdf
 file_size: 69461
 file_type: application/pdf
 learning_resource_types:
