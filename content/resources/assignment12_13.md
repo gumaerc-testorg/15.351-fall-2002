@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Reflection Exercise: Lecture 12, 13 -- Intra-Organizational Networks'
-file: /courses/15-351-managing-the-innovation-process-fall-2002/898a1a04ac45fbd7787a7a2207f40172_assignment12_13.pdf
+file: /ol-ocw-studio-app/courses/15-351-managing-the-innovation-process-fall-2002/898a1a04ac45fbd7787a7a2207f40172_assignment12_13.pdf
 file_size: 15909
 file_type: application/pdf
 learning_resource_types:
