@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Reflection Exercise: Lecture 8,9 -- Cross-Functionality'
-file: /ol-ocw-studio-app/courses/15-351-managing-the-innovation-process-fall-2002/f969442bbcff608a541dab14d921cb2c_assignment89.pdf
+file: /courses/15-351-managing-the-innovation-process-fall-2002/f969442bbcff608a541dab14d921cb2c_assignment89.pdf
 file_size: 20161
 file_type: application/pdf
 learning_resource_types:
