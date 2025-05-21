@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Reflection Exercise: Lecture 1 -- Introduction and Overview'
-file: /ol-ocw-studio-app/courses/15-351-managing-the-innovation-process-fall-2002/8c5cd9aaabf8d5daf3f36bb873937982_assignment1.pdf
+file: /courses/15-351-managing-the-innovation-process-fall-2002/8c5cd9aaabf8d5daf3f36bb873937982_assignment1.pdf
 file_size: 20912
 file_type: application/pdf
 learning_resource_types:
