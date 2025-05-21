@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Reflection Exercise: Lecture 6, 7 -- Technical Communication'
-file: /ol-ocw-studio-app/courses/15-351-managing-the-innovation-process-fall-2002/0236532743e84a9f5ab05e4732836817_assignment6_7.pdf
+file: /courses/15-351-managing-the-innovation-process-fall-2002/0236532743e84a9f5ab05e4732836817_assignment6_7.pdf
 file_size: 18658
 file_type: application/pdf
 learning_resource_types:

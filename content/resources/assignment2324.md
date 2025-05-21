@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Reflection Exercise: Lecture 23, 22 -- Standards, Patents, and Open
   Source'
-file: /ol-ocw-studio-app/courses/15-351-managing-the-innovation-process-fall-2002/190af08d84fe19cafa7e30913b24fa5b_assignment2324.pdf
+file: /courses/15-351-managing-the-innovation-process-fall-2002/190af08d84fe19cafa7e30913b24fa5b_assignment2324.pdf
 file_size: 11998
 file_type: application/pdf
 learning_resource_types:

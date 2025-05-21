@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Origin of the Process
-file: /ol-ocw-studio-app/courses/15-351-managing-the-innovation-process-fall-2002/f82664e50e11f7ca3490df49dbbdd26f_lecture23.pdf
+file: /courses/15-351-managing-the-innovation-process-fall-2002/f82664e50e11f7ca3490df49dbbdd26f_lecture23.pdf
 file_size: 73669
 file_type: application/pdf
 learning_resource_types:
