@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Technical Communication
-file: /courses/15-351-managing-the-innovation-process-fall-2002/2b1b482d920a030ef23c8cace0d3f6f2_lecture67.pdf
+file: /ol-ocw-studio-app/courses/15-351-managing-the-innovation-process-fall-2002/2b1b482d920a030ef23c8cace0d3f6f2_lecture67.pdf
 file_size: 71094
 file_type: application/pdf
 learning_resource_types:
